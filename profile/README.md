@@ -24,4 +24,3 @@ PhrostByte is built by TensorSpace, Inc. for teams that need auditable security 
 
 - Website: [phrostbyte.com](https://phrostbyte.com)
 - Public repository: [phrostbyte/phrostbyte](https://github.com/phrostbyte/phrostbyte)
-- Contact: [support@phrostbyte.com](mailto:support@phrostbyte.com)
