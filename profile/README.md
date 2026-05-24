@@ -18,7 +18,6 @@ PhrostByte is built by TensorSpace, Inc. for teams that need auditable security 
 - Transparent implementation over opaque black boxes.
 - Practical automation that keeps analysts in control.
 - Strong local validation and CI before release.
-- Clear ownership by TensorSpace, Inc.
 
 ## Links
 
