@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phrostbyte/.github/main/assets/phrostbyte-icon.png" alt="PhrostByte icon" width="128">
+  <img src="https://raw.githubusercontent.com/phrostbyte/.github/main/assets/phrostbyte-icon.png" alt="PhrostByte logo" width="128">
   <h1>PhrostByte</h1>
   <p><strong>Open security dashboard, services, and cross-platform endpoint agents.</strong></p>
 </div>

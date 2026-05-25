@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PhrostByte logo">
+  <defs>
+    <linearGradient id="phrostbyteShield" x1="16" y1="10" x2="48" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f6fbff" />
+      <stop offset="0.45" stop-color="#7eefff" />
+      <stop offset="1" stop-color="#21d4ff" />
+    </linearGradient>
+    <linearGradient id="phrostbyteCore" x1="20" y1="20" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="1" stop-color="#21d4ff" />
+    </linearGradient>
+  </defs>
+  <path d="M32 5.5 51 13v16.4c0 12.9-7.4 23-19 28.1-11.6-5.1-19-15.2-19-28.1V13L32 5.5Z" fill="#07131f" />
+  <path d="M32 8.8 47.5 15v14.2c0 10.5-5.9 18.9-15.5 23.6-9.6-4.7-15.5-13.1-15.5-23.6V15L32 8.8Z" fill="#0e2538" stroke="url(#phrostbyteShield)" stroke-width="3" stroke-linejoin="round" />
+  <g stroke="url(#phrostbyteCore)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 18v28" />
+    <path d="M19.9 25l24.2 14" />
+    <path d="M44.1 25 19.9 39" />
+  </g>
+  <g stroke="#bff6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m32 23 4-4" />
+    <path d="m32 23-4-4" />
+    <path d="m32 41 4 4" />
+    <path d="m32 41-4 4" />
+    <path d="m24.3 27.5-1.5-5.2" />
+    <path d="m24.3 27.5-5.2 1.4" />
+    <path d="m39.7 36.5 5.2-1.4" />
+    <path d="m39.7 36.5 1.5 5.2" />
+    <path d="m39.7 27.5 1.5-5.2" />
+    <path d="m39.7 27.5 5.2 1.4" />
+    <path d="m24.3 36.5-5.2-1.4" />
+    <path d="m24.3 36.5-1.5 5.2" />
+  </g>
+  <circle cx="32" cy="32" r="4.5" fill="#21d4ff" />
+  <circle cx="32" cy="32" r="2" fill="#ffffff" />
+</svg>
